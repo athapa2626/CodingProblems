@@ -9,3 +9,13 @@ add_executable(
     ArrayReverse
     ArrayReverse.cpp
 )
+
+add_executable(
+    GroupArrayReverse
+    GroupArrayReverse.cpp
+)
+
+add_executable(
+    RotateArray
+    RotateArray.cpp
+)
