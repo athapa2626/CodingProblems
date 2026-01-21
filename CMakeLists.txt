@@ -43,3 +43,7 @@ add_executable(
     NextPermutation
     NextPermutation.cpp
 )
+add_executable(
+    MajorityElement
+    MajorityElement.cpp
+)
