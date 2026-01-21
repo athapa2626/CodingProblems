@@ -24,3 +24,22 @@ add_executable(
     MaxTripletProduct
     MaxTripletProduct.cpp
 )
+
+add_executable(
+    MaxConsecutiveOnes
+    MaxConsecutiveOnes.cpp
+)
+
+add_executable(
+    MoveAllZeroesToEnd
+    MoveAllZeroesToEnd.cpp
+)
+
+add_executable(
+    WaveArray
+    WaveArray.cpp
+)
+add_executable(
+    NextPermutation
+    NextPermutation.cpp
+)
