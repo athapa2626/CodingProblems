@@ -19,3 +19,8 @@ add_executable(
     RotateArray
     RotateArray.cpp
 )
+
+add_executable(
+    MaxTripletProduct
+    MaxTripletProduct.cpp
+)
