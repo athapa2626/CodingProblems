@@ -47,3 +47,8 @@ add_executable(
     MajorityElement
     MajorityElement.cpp
 )
+
+add_executable(
+    Plusone
+    Plusone.cpp
+)
