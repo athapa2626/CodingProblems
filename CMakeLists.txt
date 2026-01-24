@@ -57,3 +57,9 @@ add_executable(
     StockMaxProfit
     StockMaxProfit.cpp
 )
+
+add_executable(
+    MultipleStockMaxProfit
+    MultipleStockMaxProfit.cpp
+)
+
