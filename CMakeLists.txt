@@ -52,3 +52,8 @@ add_executable(
     Plusone
     Plusone.cpp
 )
+
+add_executable(
+    StockMaxProfit
+    StockMaxProfit.cpp
+)
