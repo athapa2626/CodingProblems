@@ -63,3 +63,7 @@ add_executable(
     MultipleStockMaxProfit.cpp
 )
 
+add_executable(
+    RemoveDuplicates
+    RemoveDuplicates.cpp
+)
